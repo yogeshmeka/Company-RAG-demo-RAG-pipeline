@@ -1,0 +1,185 @@
+PAYROLL AND COMPENSATION POLICY
+Company: TechMeka Solutions
+Department: Finance and Human Resources
+Last Updated: January 2026
+Version: 2.8
+Approved By: James Carter, Chief Financial Officer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TABLE OF CONTENTS
+1. Introduction
+2. Salary Structure
+3. Salary Payment Process
+4. Overtime Policy
+5. Bonus and Incentive Policy
+6. Tax and Deductions
+7. Expense Reimbursement
+8. Salary Revision Policy
+9. Payroll Disputes
+10. Confidentiality of Compensation
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. INTRODUCTION
+
+This document outlines the payroll and compensation policies of TechMeka Solutions. It is designed to provide employees with a clear understanding of how their compensation is structured, how and when they are paid, and what deductions and benefits apply to their salary. TechMeka Solutions is committed to offering competitive and fair compensation that reflects the skills, experience, and performance of each employee.
+
+Compensation at TechMeka Solutions is benchmarked annually against industry standards using data from leading compensation surveys including Radford, Mercer, and LinkedIn Salary Insights. The goal is to maintain compensation levels at or above the 75th percentile of the market for our industry and location.
+
+All compensation decisions are made by the HR department in collaboration with department heads and the Finance team. Compensation is reviewed during the annual performance review cycle in December, with changes effective from January 1st of the following year.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2. SALARY STRUCTURE
+
+2.1 Components of Compensation
+The total compensation package at TechMeka Solutions consists of the following components:
+
+Base Salary:
+The base salary is the fixed monthly payment made to an employee before any allowances, bonuses, or deductions. Base salary is determined based on the employee's role, level, experience, and market benchmarking data. Base salary is paid in 12 equal monthly installments.
+
+House Rent Allowance (HRA):
+HRA is provided to assist employees with housing costs. Employees based in San Francisco or New York receive HRA equivalent to 50% of their base salary. Employees based in Austin receive HRA equivalent to 40% of their base salary. HRA is partially exempt from federal income tax subject to IRS guidelines.
+
+Transport Allowance:
+All employees receive a monthly transport allowance of $300 to cover commuting costs. This allowance is taxable and included in the monthly payslip.
+
+Special Allowance:
+A special allowance is paid to employees to bridge the gap between the base salary and the total cost to company (CTC). The special allowance amount varies by employee and is listed individually on each employee's offer letter.
+
+2.2 Salary Bands by Level
+TechMeka Solutions uses the following salary bands:
+- Level 1 (Associate): $60,000 to $80,000 per year.
+- Level 2 (Junior): $80,000 to $100,000 per year.
+- Level 3 (Mid-Level): $100,000 to $130,000 per year.
+- Level 4 (Senior): $130,000 to $170,000 per year.
+- Level 5 (Lead): $170,000 to $210,000 per year.
+- Level 6 (Principal): $210,000 to $260,000 per year.
+- Level 7 (Director): $260,000 and above, determined by the executive team.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3. SALARY PAYMENT PROCESS
+
+3.1 Payment Date
+Salaries are processed and credited to employee bank accounts on the last working day of every month. If the last working day falls on a public holiday, salaries will be credited on the preceding working day.
+
+3.2 Bank Account Requirements
+Employees must register their bank account details in the HR portal within their first week of joining. Only US bank accounts are accepted for salary payments. Employees who wish to change their bank account details must submit a request via the HR portal at least 10 working days before the next payroll processing date.
+
+3.3 Payslips
+Digital payslips are generated and made available on the HR portal by the 20th of each month. Payslips include a detailed breakdown of all earnings, allowances, deductions, and net pay. Employees are advised to review their payslip every month and report any discrepancies to the payroll team within 5 working days of the payslip being published.
+
+3.4 First Month Salary
+For employees who join mid-month, the first month's salary will be pro-rated based on the number of working days completed in that month. The calculation is: (Monthly Salary / Total Working Days in Month) x Number of Days Worked.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4. OVERTIME POLICY
+
+4.1 Eligibility
+Overtime compensation applies to employees at Level 1 through Level 3. Employees at Level 4 and above are classified as exempt employees under the Fair Labor Standards Act (FLSA) and are not eligible for overtime pay.
+
+4.2 Overtime Approval
+All overtime must be pre-approved by the employee's direct manager in writing via the project management system or email. Unapproved overtime will not be compensated. Employees should not work overtime without explicit written approval.
+
+4.3 Overtime Rates
+- Weekday Overtime (Monday to Friday): 1.5x the employee's hourly rate.
+- Weekend Overtime (Saturday and Sunday): 2x the employee's hourly rate.
+- Public Holiday Overtime: 2.5x the employee's hourly rate.
+
+4.4 Overtime Limits
+The maximum overtime an employee may work is 20 hours per month. Overtime exceeding 20 hours per month requires approval from the department head and HR. Consistent overtime may indicate a resource planning issue and will be reviewed by management.
+
+4.5 Compensatory Off
+As an alternative to overtime pay, employees may opt for compensatory time off (comp off) at the discretion of the manager. Comp off must be taken within 30 days of the overtime worked.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+5. BONUS AND INCENTIVE POLICY
+
+5.1 Annual Performance Bonus
+Annual performance bonuses are distributed in December alongside the December salary. The bonus amount is calculated as a percentage of the employee's annual base salary based on their year-end performance review score:
+- Score 4.5 to 5.0: 20% of annual base salary.
+- Score 4.0 to 4.4: 15% of annual base salary.
+- Score 3.5 to 3.9: 10% of annual base salary.
+- Score 3.0 to 3.4: 5% of annual base salary.
+- Score below 3.0: No bonus.
+
+Employees must be employed on December 31st to be eligible for the annual bonus. Employees who resign or are terminated before December 31st forfeit their annual bonus entitlement.
+
+5.2 Project Completion Bonus
+Project completion bonuses are awarded at the discretion of the department head for exceptional delivery of critical projects. The bonus amount ranges from $500 to $5,000 depending on the project scope and impact. Project completion bonuses are paid in the month following project completion.
+
+5.3 Referral Bonus
+Employees who refer a candidate who is successfully hired and completes 6 months of employment will receive a referral bonus of $1,500. The referral bonus is paid in the month following the referred employee's 6-month anniversary. Referrals must be submitted through the official referral portal before the candidate applies.
+
+5.4 Spot Awards
+Spot awards are one-time recognition payments given to employees who demonstrate exceptional effort or achievement outside their regular responsibilities. Spot awards range from $100 to $500 and can be nominated by any manager. Spot awards are approved by the department head and HR.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+6. TAX AND DEDUCTIONS
+
+6.1 Federal and State Taxes
+TechMeka Solutions is required by law to withhold federal income tax, state income tax, Social Security tax, and Medicare tax from employee salaries. Tax withholding is calculated based on the employee's W-4 form submitted during onboarding. Employees should review and update their W-4 whenever their personal or financial situation changes.
+
+6.2 Social Security and Medicare
+Social Security tax is withheld at 6.2% of gross earnings up to the annual wage base limit set by the IRS. Medicare tax is withheld at 1.45% of all gross earnings. Employees earning above $200,000 per year are subject to an additional Medicare tax of 0.9%.
+
+6.3 Pre-Tax Deductions
+The following deductions are made from gross salary before tax:
+- Health Insurance Premium: Employee's share of the health insurance premium.
+- 401(k) Contributions: Employee's elected contribution to the retirement plan.
+- Flexible Spending Account (FSA): Employee's elected FSA contributions.
+- Dependent Care FSA: Employee's elected dependent care contributions.
+
+6.4 Post-Tax Deductions
+The following deductions are made from net salary after tax:
+- Voluntary life insurance premiums.
+- Employee Stock Purchase Plan (ESPP) contributions.
+- Any salary advances or loans taken from the company.
+
+6.5 Tax Documents
+W-2 forms are issued to all employees by January 31st of each year for the previous tax year. W-2 forms are available for download on the HR portal. Employees who need a duplicate W-2 may request one from the payroll team.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+7. EXPENSE REIMBURSEMENT
+
+7.1 Eligible Expenses
+The following business expenses are eligible for reimbursement:
+- Domestic travel: flights, trains, rental cars, taxis, and rideshares for approved business trips.
+- Hotel accommodation for approved business travel.
+- Client entertainment meals with prior manager approval.
+- Conference registration fees for approved industry events.
+- Home office equipment for employees on approved permanent remote work arrangements.
+
+7.2 Reimbursement Process
+Employees must submit expense claims via the expense portal within 30 days of incurring the expense. Claims submitted after 30 days will not be reimbursed. All claims must include original receipts or digital invoices. Claims are reviewed by the employee's manager and the finance team. Approved claims are reimbursed within 15 working days of approval.
+
+7.3 Travel Limits
+The following limits apply to business travel expenses:
+- Domestic flights: Economy class only. Business class requires VP-level approval.
+- Hotel accommodation: Up to $200 per night for San Francisco and New York, up to $150 per night for other domestic locations.
+- Meal allowance during travel: Up to $75 per day, including breakfast, lunch, and dinner.
+- Ground transportation: Actual cost for taxis and rideshares. Personal vehicle mileage reimbursed at the IRS standard mileage rate.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+8. SALARY REVISION POLICY
+
+Salary revisions are conducted annually in January based on the December performance review. The revision percentage is determined by the employee's performance score as outlined in Section 5 of the HR Policy Manual. Mid-year salary revisions may be granted in exceptional circumstances such as promotion, significant market adjustment, or critical retention needs, and require approval from the CHRO and CFO.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+9. PAYROLL DISPUTES
+
+Employees who believe there is an error in their payslip must raise a payroll dispute within 5 working days of the payslip being published. Disputes are submitted via the HR portal. The payroll team will investigate and respond within 5 working days. If an underpayment is confirmed, the corrected amount will be paid in the next payroll cycle or sooner if the amount is significant.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+10. CONFIDENTIALITY OF COMPENSATION
+
+Employees are strongly encouraged to keep their compensation details confidential. Sharing salary information with colleagues may create misunderstandings and affect team morale. However, TechMeka Solutions acknowledges that employees have the legal right to discuss their wages under the National Labor Relations Act. The company will not retaliate against any employee for lawfully discussing their compensation.

@@ -1,0 +1,182 @@
+IT AND INFORMATION SECURITY POLICY
+Company: TechMeka Solutions
+Department: Information Technology
+Last Updated: January 2026
+Version: 4.1
+Approved By: David Park, Chief Information Security Officer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TABLE OF CONTENTS
+1. Introduction and Scope
+2. Device Policy
+3. Password and Authentication Policy
+4. Software and Application Policy
+5. Data Classification and Handling
+6. Network and Internet Usage Policy
+7. Email and Communication Policy
+8. Cloud Services Policy
+9. Incident Reporting
+10. Consequences of Policy Violation
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. INTRODUCTION AND SCOPE
+
+TechMeka Solutions handles sensitive client data, proprietary software, and confidential business information on a daily basis. The security of this information is critical to the trust of our clients, the integrity of our business, and compliance with applicable data protection regulations including GDPR, CCPA, and SOC 2 Type II requirements.
+
+This IT and Information Security Policy applies to all employees, contractors, interns, and third-party vendors who access TechMeka Solutions systems, networks, or data. Compliance with this policy is mandatory and non-negotiable. Violations of this policy may result in disciplinary action up to and including termination and legal action where applicable.
+
+The IT department conducts annual security training for all employees. New employees are required to complete security training during their first week of onboarding. The policy is reviewed and updated annually by the CISO in collaboration with the legal and compliance teams.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2. DEVICE POLICY
+
+2.1 Company-Issued Devices
+All full-time employees are issued a company MacBook Pro laptop on their first day of employment. The laptop is configured by the IT department with all required software, security tools, and access permissions before being handed to the employee. Employees must sign a device acknowledgment form before receiving their laptop.
+
+2.2 Personal Device Usage
+Personal devices including personal laptops, tablets, and smartphones must not be used to access company systems, email, or data without prior written approval from the IT department. Approved personal devices must be enrolled in the company's Mobile Device Management (MDM) system and must comply with all security requirements including screen lock, encryption, and remote wipe capability.
+
+2.3 Device Security
+Company laptops must have the screen lock activated after 5 minutes of inactivity. Full disk encryption must be enabled at all times. Employees must not disable or tamper with any security software installed on company devices. The IT department performs quarterly security audits of all company devices.
+
+2.4 Lost or Stolen Devices
+Any lost or stolen device must be reported to the IT department and the employee's manager within 1 hour of discovery. The IT department will immediately initiate a remote wipe of the device. Failure to report a lost or stolen device within the required timeframe may result in disciplinary action. Employees are responsible for any data breach resulting from a lost device that was not reported promptly.
+
+2.5 Device Return
+Employees must return all company devices within their last working day upon resignation or termination. Devices must be in good working condition. Damage beyond normal wear and tear may result in repair costs being deducted from the final paycheck.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3. PASSWORD AND AUTHENTICATION POLICY
+
+3.1 Password Requirements
+All passwords for company accounts must meet the following requirements:
+- Minimum length of 14 characters.
+- Must include at least one uppercase letter.
+- Must include at least one lowercase letter.
+- Must include at least one number.
+- Must include at least one special character such as !, @, #, $, %, or &.
+- Must not contain the employee's name, username, or company name.
+- Must not be a previously used password (last 12 passwords are remembered).
+
+3.2 Password Rotation
+Passwords for all company accounts must be changed every 60 days. The HR portal will prompt employees to reset their passwords before expiry. Accounts with expired passwords will be locked until the password is reset through the IT helpdesk.
+
+3.3 Multi-Factor Authentication
+Multi-factor authentication (MFA) is mandatory for all company accounts including email, HR portal, code repositories, cloud platforms, and VPN. Employees must use the company-approved authenticator app for MFA. SMS-based MFA is not permitted due to security vulnerabilities.
+
+3.4 Password Sharing
+Employees must never share their passwords with anyone including IT staff, managers, or colleagues. The IT department will never ask an employee for their password. Any request for a password should be treated as a phishing attempt and reported to IT security immediately.
+
+3.5 Password Manager
+TechMeka Solutions provides all employees with a licensed password manager. Employees are strongly encouraged to use the password manager to generate and store strong, unique passwords for all accounts. Using the same password across multiple accounts is strictly prohibited.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4. SOFTWARE AND APPLICATION POLICY
+
+4.1 Approved Software
+Only IT-approved software may be installed on company devices. The complete list of approved software is maintained on the IT portal. Employees who require software not on the approved list must submit a software request to the IT department, which will be reviewed within 5 working days.
+
+4.2 Prohibited Software
+The following categories of software are strictly prohibited on company devices:
+- Peer-to-peer file sharing applications.
+- Unauthorized remote access tools.
+- Personal gaming software.
+- Cryptocurrency mining software.
+- Unlicensed or pirated software.
+- Browser extensions not on the approved list.
+
+4.3 Software Updates
+All software updates and security patches must be applied within 48 hours of release. Employees must not postpone or ignore update notifications on company devices. Critical security patches may be pushed automatically by the IT department without prior notice.
+
+4.4 Open Source Software
+Employees who wish to use open source libraries or tools in company projects must review the license terms and obtain approval from the legal team before use. Open source software with licenses that could affect the proprietary nature of company code, such as GPL licenses, require special review.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+5. DATA CLASSIFICATION AND HANDLING
+
+5.1 Data Classification Levels
+TechMeka Solutions classifies data into four levels:
+
+Level 1 - Public: Information that is approved for public release such as marketing materials, press releases, and product documentation.
+
+Level 2 - Internal: Information intended for internal use only such as company policies, internal announcements, and general business processes.
+
+Level 3 - Confidential: Sensitive business information including client data, financial records, employee records, and product roadmaps. Access is restricted to authorized personnel only.
+
+Level 4 - Restricted: Highly sensitive information including source code, security credentials, cryptographic keys, and personally identifiable information (PII). Access is strictly controlled and logged.
+
+5.2 Data Handling Requirements
+- Level 3 and Level 4 data must be encrypted at rest and in transit.
+- Level 3 and Level 4 data must not be stored on personal devices or personal cloud accounts.
+- Level 4 data must not be emailed externally under any circumstances.
+- All data must be handled in accordance with applicable data protection laws.
+
+5.3 Data Retention
+Data retention periods are defined by the legal and compliance team based on regulatory requirements. Employees must not delete or destroy company data without explicit approval from the data governance team. Data that has reached its retention period is securely destroyed by the IT department.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+6. NETWORK AND INTERNET USAGE POLICY
+
+6.1 VPN Usage
+Employees must connect to the company VPN whenever accessing internal systems from outside the office. VPN credentials are issued by the IT department during onboarding. Sharing VPN credentials is strictly prohibited.
+
+6.2 Internet Usage
+Internet usage on company devices and networks is monitored and logged. Employees are expected to use the internet for work-related purposes during business hours. Personal internet usage should be limited to lunch breaks and outside working hours. The following websites and categories are blocked on the company network: adult content, gambling, illegal content, streaming services during work hours, and known malware distribution sites.
+
+6.3 Public Wi-Fi
+Employees must never access company systems or data on public Wi-Fi networks without using the company VPN. Connecting to unsecured public networks without VPN protection is a security violation.
+
+6.4 Network Security
+Employees must not connect unauthorized devices to the company network. Attempting to bypass network security controls or access restricted network areas is strictly prohibited and will result in immediate disciplinary action.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+7. EMAIL AND COMMUNICATION POLICY
+
+7.1 Professional Use
+Company email accounts are provided for business use. Employees must maintain a professional tone in all business communications. Sending offensive, inappropriate, or harassing content via company email is strictly prohibited.
+
+7.2 Phishing Awareness
+Employees must be vigilant about phishing emails. Signs of phishing include unexpected requests for credentials, urgent language, suspicious sender addresses, and unexpected attachments. Suspected phishing emails must be reported to IT security immediately using the phishing report button in the email client.
+
+7.3 External Email
+Confidential or restricted data must not be sent to external email addresses without encryption and explicit manager approval. Sending client data to personal email accounts is strictly prohibited.
+
+7.4 Email Retention
+Business emails are retained for 7 years in accordance with company data retention policy. Employees must not delete business-critical email communications.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+8. CLOUD SERVICES POLICY
+
+8.1 Approved Cloud Services
+Only IT-approved cloud services may be used for company work. The approved list includes AWS, Google Cloud Platform, Microsoft Azure, GitHub Enterprise, Jira, Confluence, Slack, and Zoom.
+
+8.2 Personal Cloud Accounts
+Company data must not be stored in personal cloud accounts such as personal Google Drive, Dropbox, or iCloud. All company data must be stored in company-managed cloud accounts with appropriate access controls.
+
+8.3 Cloud Access Management
+Access to cloud services is provisioned by the IT department based on role requirements and the principle of least privilege. Access reviews are conducted quarterly to ensure that employees only have access to the resources they need.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+9. INCIDENT REPORTING
+
+All security incidents including data breaches, malware infections, unauthorized access, phishing attempts, and lost devices must be reported to the IT security team immediately. The IT security team is available 24/7 via the security hotline at security@TechMeka.com and the emergency number +1-800-TechMeka. A security incident report must be filed within 24 hours of discovery. Early reporting helps contain and minimize the impact of security incidents.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+10. CONSEQUENCES OF POLICY VIOLATION
+
+Violations of the IT and security policy are treated seriously and may result in:
+- Formal disciplinary action as outlined in the HR Policy Manual.
+- Immediate revocation of system access pending investigation.
+- Legal action in cases of intentional data breach or fraud.
+- Personal liability for damages resulting from willful negligence.

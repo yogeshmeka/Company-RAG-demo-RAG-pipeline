@@ -1,0 +1,192 @@
+EMPLOYEE BENEFITS GUIDE
+Company: TechMeka Solutions
+Department: Human Resources
+Last Updated: January 2026
+Version: 2.5
+Approved By: Sarah Mitchell, Chief Human Resources Officer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TABLE OF CONTENTS
+1. Introduction
+2. Health and Medical Benefits
+3. Retirement Benefits
+4. Education and Learning Benefits
+5. Wellness Benefits
+6. Financial Benefits
+7. Family Benefits
+8. Employee Assistance Program
+9. Stock Options and Equity
+10. Additional Perks
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. INTRODUCTION
+
+TechMeka Solutions believes that attracting and retaining top talent requires offering a comprehensive benefits package that supports the physical, mental, financial, and professional well-being of every employee. Our benefits are designed to meet the diverse needs of our workforce and are regularly reviewed to ensure they remain competitive and relevant.
+
+All full-time employees who work 30 or more hours per week are eligible for the full benefits package described in this guide. Part-time employees working between 20 and 29 hours per week are eligible for a partial benefits package. Contractors and interns are not eligible for company benefits unless explicitly stated in their contract.
+
+Benefits enrollment is completed during onboarding for new employees. The annual benefits open enrollment period takes place in November each year, during which employees can make changes to their benefit selections for the following calendar year. Qualifying life events such as marriage, birth of a child, or loss of other coverage allow employees to make changes outside of the open enrollment period.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2. HEALTH AND MEDICAL BENEFITS
+
+2.1 Medical Insurance
+TechMeka Solutions offers three medical insurance plan options through BlueCross BlueShield:
+
+Plan A - Premium Plan: Low deductible of $500, low co-pays, and broad network coverage including out-of-network benefits. The company covers 90% of the monthly premium. Best for employees with frequent medical needs or families with children.
+
+Plan B - Standard Plan: Moderate deductible of $1,500, standard co-pays, and comprehensive network coverage. The company covers 80% of the monthly premium. Best for employees with moderate medical needs.
+
+Plan C - High Deductible Health Plan (HDHP): High deductible of $3,000 paired with a Health Savings Account (HSA). The company covers 70% of the monthly premium and contributes $500 per year to the employee's HSA. Best for healthy employees who want to save on premiums and build tax-advantaged savings.
+
+Medical coverage begins on the first day of employment for all full-time employees.
+
+2.2 Dental Insurance
+All employees are automatically enrolled in the company dental plan through Delta Dental. The plan covers 100% of preventive care including cleanings, X-rays, and exams. Basic restorative care such as fillings is covered at 80%. Major restorative care such as crowns and bridges is covered at 50%. Orthodontia is covered at 50% up to a lifetime maximum of $2,000. The company covers 75% of the dental premium.
+
+2.3 Vision Insurance
+All employees are automatically enrolled in the company vision plan through VSP. The plan covers one eye exam per year at 100%. Frames or contact lenses are covered up to $200 per year. Laser eye surgery discounts of up to 15% are available through the VSP network. The company covers 70% of the vision premium.
+
+2.4 Mental Health Benefits
+TechMeka Solutions recognizes the importance of mental health and offers the following support:
+- Up to 20 therapy sessions per year covered at 100% through the company's mental health benefit.
+- Access to the Calm and Headspace apps at no cost to the employee.
+- Virtual therapy sessions available through Teladoc Mental Health.
+- Psychiatry consultations covered at the same rate as medical specialist visits.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3. RETIREMENT BENEFITS
+
+3.1 401(k) Plan
+TechMeka Solutions offers a 401(k) retirement savings plan through Fidelity Investments. Employees are eligible to enroll in the 401(k) plan after completing 3 months of employment. The company matches 100% of employee contributions up to 5% of the employee's annual base salary. Matching contributions vest over a 3-year graded vesting schedule: 33% after year 1, 66% after year 2, and 100% after year 3.
+
+Employees may contribute up to the IRS annual limit, which is $23,000 for 2026. Employees aged 50 and above may make catch-up contributions of up to an additional $7,500 per year.
+
+3.2 Roth 401(k)
+Employees may choose to make Roth 401(k) contributions, which are made with after-tax dollars. Roth 401(k) withdrawals in retirement are tax-free. Employees may split their contributions between traditional pre-tax 401(k) and Roth 401(k).
+
+3.3 Financial Planning
+TechMeka Solutions provides all employees with access to a free financial planning consultation with a certified financial planner twice per year. This benefit is designed to help employees plan for retirement, manage debt, and make informed financial decisions.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4. EDUCATION AND LEARNING BENEFITS
+
+4.1 Annual Learning Budget
+Each employee receives an annual learning and development budget of $3,000. This budget can be used for:
+- Online courses on platforms such as Coursera, Udemy, Pluralsight, and LinkedIn Learning.
+- Industry certifications including AWS, Google Cloud, Azure, PMP, Scrum, CISSP, and CFA.
+- Technical books and learning resources.
+- Industry conferences with manager approval.
+- University courses relevant to the employee's role.
+
+Learning budget requests must be submitted via the HR portal and approved by the employee's manager. The budget resets on January 1st each year and does not carry forward.
+
+4.2 Certification Sponsorship
+TechMeka Solutions fully sponsors the following certifications and pays for the exam fee directly:
+- AWS Certified Solutions Architect (Associate and Professional).
+- Google Cloud Professional Data Engineer.
+- Microsoft Azure Solutions Architect Expert.
+- Certified Scrum Master (CSM).
+- Project Management Professional (PMP).
+- Certified Information Systems Security Professional (CISSP).
+
+Employees who leave the company within 12 months of receiving a company-sponsored certification may be required to reimburse the certification cost on a pro-rated basis.
+
+4.3 Tuition Reimbursement
+Employees pursuing an undergraduate or graduate degree relevant to their role may apply for tuition reimbursement of up to $5,000 per academic year. Tuition reimbursement requires pre-approval from the department head and HR. Employees must maintain a GPA of 3.0 or above to continue receiving reimbursement. Employees who leave within 2 years of receiving tuition reimbursement must repay 50% of the reimbursed amount.
+
+4.4 Internal Training
+TechMeka Solutions offers a robust internal training program including:
+- Monthly tech talks by senior engineers and industry guests.
+- Quarterly leadership development workshops for managers and senior employees.
+- Annual hackathon with prizes for winning teams.
+- Internal mentorship program pairing junior employees with senior leaders.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+5. WELLNESS BENEFITS
+
+5.1 Gym Reimbursement
+Employees receive a monthly gym and fitness reimbursement of up to $100. Eligible expenses include gym memberships, fitness classes, yoga studios, personal training sessions, and fitness app subscriptions. Reimbursement claims must be submitted via the expense portal with receipts by the last day of each month.
+
+5.2 Healthy Office Environment
+The San Francisco, Austin, and New York offices provide:
+- Free healthy snacks and beverages including fresh fruit, nuts, yogurt, and herbal teas.
+- Ergonomic workstations with standing desk options.
+- Quiet rooms for meditation and focus work.
+- Nursing rooms for new mothers.
+- On-site bicycle storage and shower facilities for employees who cycle to work.
+
+5.3 Annual Health Checkup
+TechMeka Solutions covers the cost of one comprehensive annual health checkup per employee per year. The health checkup includes a full blood panel, blood pressure screening, BMI assessment, and a consultation with a general practitioner. Employees can schedule their health checkup through the company's partner clinics listed on the HR portal.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+6. FINANCIAL BENEFITS
+
+6.1 Employee Stock Purchase Plan
+The Employee Stock Purchase Plan (ESPP) allows employees to purchase TechMeka Solutions stock at a 15% discount to the market price. Employees may contribute up to 10% of their gross salary to the ESPP. Purchase periods are 6 months, with purchases made on the last day of each purchase period at the lower of the price at the beginning or end of the period.
+
+6.2 Life Insurance
+TechMeka Solutions provides all employees with basic life insurance coverage equal to 2x the employee's annual base salary at no cost to the employee. Employees may purchase additional voluntary life insurance coverage for themselves and their dependents at group rates.
+
+6.3 Disability Insurance
+Short-term disability insurance covers 60% of the employee's base salary for up to 12 weeks following a qualifying illness or injury after a 7-day waiting period. Long-term disability insurance covers 60% of the employee's base salary for up to 24 months following a qualifying disability that prevents the employee from performing their job.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+7. FAMILY BENEFITS
+
+7.1 Parental Leave
+In addition to the maternity and paternity leave outlined in the HR Policy Manual, TechMeka Solutions offers:
+- A $1,000 baby bonus for the birth or adoption of a child.
+- Access to a backup childcare benefit of 15 days per year through a company-partnered childcare provider.
+- A gradual return-to-work program allowing new parents to work 50% hours for the first 4 weeks after returning from parental leave.
+
+7.2 Adoption Assistance
+Employees who adopt a child are eligible for adoption assistance of up to $5,000 to cover legal fees, agency fees, and travel costs associated with the adoption.
+
+7.3 Dependent Care FSA
+Employees may contribute up to $5,000 per year to a Dependent Care Flexible Spending Account to cover eligible childcare and elder care expenses with pre-tax dollars.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+8. EMPLOYEE ASSISTANCE PROGRAM
+
+The Employee Assistance Program (EAP) provides confidential support for personal and professional challenges. Services available through the EAP include:
+- Free and confidential counseling sessions for personal, family, and work-related issues.
+- Legal consultations with licensed attorneys.
+- Financial counseling and debt management guidance.
+- Assistance with finding childcare, eldercare, and other personal services.
+- Crisis intervention and emergency support.
+
+The EAP is available 24 hours a day, 7 days a week, and can be accessed by calling the EAP hotline at 1-800-EAP-NOVA or through the EAP portal on the company intranet.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+9. STOCK OPTIONS AND EQUITY
+
+9.1 Stock Option Grant
+Employees at Level 4 and above are eligible for stock option grants. The number of options granted is based on the employee's level and performance rating at the time of grant. Stock options are granted annually in January for the previous year's performance.
+
+9.2 Vesting Schedule
+Stock options vest over a 4-year period with a 1-year cliff. This means that 25% of the options vest after the first year of the grant date, and the remaining 75% vest monthly over the following 3 years.
+
+9.3 Exercise Period
+Vested stock options may be exercised at any time during employment. Upon termination, employees have 90 days to exercise vested options. Unvested options are forfeited upon termination.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+10. ADDITIONAL PERKS
+
+- Free lunch provided in the office every Wednesday.
+- Monthly team social events and quarterly company-wide events.
+- Birthday leave: Employees receive one additional day off on or around their birthday.
+- Commuter benefits: Up to $300 per month in pre-tax commuter benefits for transit and parking.
+- Pet insurance: Employees may enroll in discounted pet insurance through the company's group plan.
+- Home office stipend: Employees on permanent remote work arrangements receive a one-time home office setup stipend of $1,000.

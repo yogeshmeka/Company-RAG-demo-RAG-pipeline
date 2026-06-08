@@ -1,0 +1,224 @@
+HUMAN RESOURCES POLICY MANUAL
+Company: TechMeka Solutions
+Department: Human Resources
+Last Updated: January 2026
+Version: 3.2
+Approved By: Sarah Mitchell, Chief Human Resources Officer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TABLE OF CONTENTS
+1. Introduction and Purpose
+2. Attendance Policy
+3. Leave Policy
+4. Remote Work Policy
+5. Performance Review Policy
+6. Disciplinary Policy
+7. Grievance Policy
+8. Equal Opportunity Policy
+9. Anti-Harassment Policy
+10. Code of Conduct
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. INTRODUCTION AND PURPOSE
+
+TechMeka Solutions is committed to creating a professional, inclusive, and productive work environment for all employees. This Human Resources Policy Manual serves as the official guide for all workplace policies, procedures, and expectations at TechMeka Solutions. All employees, contractors, and interns are expected to read, understand, and comply with the policies outlined in this document.
+
+This manual is reviewed and updated annually by the Human Resources department in collaboration with senior leadership. Any changes to policies will be communicated to employees via official company email and updated on the HR portal. Employees are responsible for staying informed about current policies.
+
+TechMeka Solutions was founded in 2015 with a mission to build innovative software solutions for enterprise clients. As the company has grown from 12 employees to over 500 employees across three offices in San Francisco, Austin, and New York, the need for clear, consistent, and fair HR policies has become essential to our continued success and culture.
+
+The HR department operates with the following core values: fairness, transparency, respect, accountability, and continuous improvement. These values guide every policy and decision made by the HR team. Employees who feel that a policy has been applied unfairly or inconsistently are encouraged to raise their concerns through the official grievance process outlined in Section 7 of this manual.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2. ATTENDANCE POLICY
+
+2.1 Standard Working Hours
+The standard working hours at TechMeka Solutions are 9:00 AM to 6:00 PM, Monday through Friday, with a one-hour unpaid lunch break from 1:00 PM to 2:00 PM. Total paid working hours per day are 8 hours. Employees in the engineering department may opt for a flexible start time between 8:00 AM and 10:00 AM with prior manager approval, provided they complete their 8 hours of work each day.
+
+2.2 Attendance Tracking
+All employees are required to clock in and clock out using the company's digital attendance system, which is accessible via the HR portal and the TechMeka mobile app. Employees must clock in no later than 9:15 AM. Any clock-in after 9:15 AM will be automatically flagged as a late arrival in the system. Employees who forget to clock in must notify their manager and HR within the same working day to have the record corrected manually.
+
+2.3 Late Arrivals
+A late arrival is defined as clocking in after 9:15 AM without prior approval. The following consequences apply for late arrivals:
+- 1 to 2 late arrivals per month: No formal action. Manager will have an informal conversation with the employee.
+- 3 late arrivals per month: A formal verbal warning will be issued by HR and documented in the employee's file.
+- 4 or more late arrivals per month: A written warning will be issued. Repeated patterns may lead to further disciplinary action as outlined in Section 6.
+
+2.4 Unexcused Absences
+An unexcused absence is defined as any full-day absence that has not been approved in advance or supported by a valid reason communicated to the manager and HR before 10:00 AM on the day of the absence.
+- 1 unexcused absence per month: Manager will have an informal conversation with the employee.
+- 2 unexcused absences per month: Formal verbal warning issued by HR.
+- 3 or more unexcused absences per month: Written warning issued. Salary deduction will apply for each unexcused absence beyond 2 per month.
+- 5 or more unexcused absences in a quarter: Review meeting with HR and department head. Employee may be placed on a Performance Improvement Plan.
+
+2.5 Half-Day Policy
+Employees may take a half-day leave for the morning session (9:00 AM to 1:00 PM) or the afternoon session (2:00 PM to 6:00 PM). Half-day leaves are deducted from the employee's annual leave balance at 0.5 days per half-day. Employees must apply for a half-day leave on the HR portal before 9:00 AM on the day of the requested half-day.
+
+2.6 Early Departure
+Employees who need to leave before 6:00 PM must inform their manager and mark early departure in the HR portal. Departure before 3:00 PM without prior approval will be treated as a half-day absence. Departure before 12:00 PM without prior approval will be treated as a full-day unexcused absence.
+
+2.7 Public Holidays
+TechMeka Solutions observes all federal public holidays. A complete list of company-observed holidays is published on the HR portal at the beginning of each calendar year. Employees required to work on public holidays will receive double pay or a compensatory day off, to be scheduled within 30 days of the holiday worked.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3. LEAVE POLICY
+
+3.1 Annual Leave
+All full-time employees are entitled to 15 days of paid annual leave per calendar year. Leave entitlement is pro-rated for employees who join mid-year based on the number of months remaining in the calendar year. Annual leave must be applied for at least 3 working days in advance through the HR portal. Leave approval is subject to manager discretion based on team availability and project deadlines. Unused annual leave up to 5 days can be carried forward to the following year. Any unused leave beyond 5 days will be forfeited at the end of the calendar year.
+
+3.2 Sick Leave
+Employees are entitled to 10 days of paid sick leave per calendar year. Sick leave does not carry forward to the following year. For absences of 1 to 2 days due to illness, employees must notify their manager before 10:00 AM on the day of absence. For absences of 3 or more consecutive days due to illness, a medical certificate from a registered physician must be submitted to HR within 2 working days of returning to work. Sick leave taken without a valid medical certificate for absences of 3 or more days will be treated as unpaid leave.
+
+3.3 Maternity Leave
+Female employees who have completed at least 6 months of employment are entitled to 26 weeks of paid maternity leave. Maternity leave can begin up to 4 weeks before the expected date of delivery. Employees must notify HR of their pregnancy and expected delivery date at least 12 weeks before the intended start of maternity leave. Upon return from maternity leave, employees are guaranteed their original position or a comparable role at the same grade and salary.
+
+3.4 Paternity Leave
+Male employees who have completed at least 6 months of employment are entitled to 10 days of paid paternity leave. Paternity leave must be taken within 4 weeks of the birth of the child. Employees must notify HR at least 4 weeks before the expected delivery date to arrange paternity leave.
+
+3.5 Bereavement Leave
+Employees are entitled to 5 days of paid bereavement leave in the event of the death of an immediate family member. Immediate family members include spouse, children, parents, and siblings. For the death of extended family members such as grandparents, aunts, uncles, or in-laws, employees are entitled to 2 days of paid bereavement leave. Additional unpaid leave may be granted at manager and HR discretion.
+
+3.6 Marriage Leave
+Employees are entitled to 5 days of paid marriage leave, which must be taken within 30 days of the wedding. This benefit is available only once during an employee's tenure at TechMeka Solutions. A copy of the marriage certificate must be submitted to HR within 30 days of returning from marriage leave.
+
+3.7 Emergency Leave
+In cases of unforeseen personal emergencies, employees may request emergency leave by contacting their manager directly. Emergency leave of up to 2 days may be approved verbally by the manager, with formal documentation to be completed on the HR portal within 24 hours. Emergency leave will be deducted from the employee's annual leave balance.
+
+3.8 Unpaid Leave
+Employees may apply for unpaid leave for personal reasons after exhausting all paid leave entitlements. Unpaid leave must be approved by the department head and HR. During unpaid leave, the employee's benefits remain active, but salary and leave accruals are paused. The maximum duration of unpaid leave is 3 months per calendar year.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4. REMOTE WORK POLICY
+
+4.1 Eligibility
+Remote work is available to all full-time employees who have completed their 3-month probation period. Employees on performance improvement plans are not eligible for remote work until their performance has been restored to a satisfactory level.
+
+4.2 Remote Work Days
+Employees may work remotely up to 2 days per week. Remote work days are typically Tuesday and Thursday, unless otherwise agreed with the manager. Employees must be present in the office on Mondays for team meetings and on Fridays for sprint reviews and retrospectives.
+
+4.3 Remote Work Request Process
+Remote work requests must be submitted via the HR portal every Monday before 9:00 AM for the upcoming week. Managers must approve or deny requests within 24 hours. Unapproved remote work will be treated as an unexcused absence.
+
+4.4 Remote Work Requirements
+While working remotely, employees must:
+- Be available and responsive on Slack and email during standard working hours.
+- Attend all scheduled meetings via video conference.
+- Use the company VPN at all times when accessing internal systems.
+- Ensure a professional and distraction-free work environment during video calls.
+- Clock in and clock out using the HR portal as usual.
+
+4.5 Equipment and Internet
+TechMeka Solutions provides each employee with a company laptop for remote work. The company does not reimburse personal internet costs for standard remote work days. However, employees who work remotely more than 3 days per week due to a special arrangement approved by HR may apply for an internet allowance of up to $50 per month.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+5. PERFORMANCE REVIEW POLICY
+
+5.1 Review Cycle
+Performance reviews are conducted twice a year. The mid-year review takes place in June and covers performance from January to June. The year-end review takes place in December and covers performance from July to December. Both reviews are mandatory for all full-time employees.
+
+5.2 Review Categories
+Employees are evaluated on the following five categories, each scored on a scale of 1 to 5:
+- Communication: Clarity, frequency, and effectiveness of communication with team members, stakeholders, and clients.
+- Teamwork: Collaboration, support of colleagues, and contribution to team goals.
+- Productivity: Volume, quality, and timeliness of work delivered.
+- Innovation: Ability to propose and implement creative solutions to problems.
+- Leadership: Initiative, mentorship, and ability to influence positive outcomes.
+
+5.3 Review Process
+The performance review process involves three steps:
+Step 1 - Self Assessment: The employee completes a self-assessment form on the HR portal two weeks before the review meeting.
+Step 2 - Manager Assessment: The employee's direct manager completes an independent assessment using the same criteria.
+Step 3 - Review Meeting: The employee and manager meet to discuss the assessments, align on scores, and set goals for the next review period.
+
+5.4 Performance Improvement Plan
+Employees who score below 2 in any category during a performance review will be placed on a Performance Improvement Plan (PIP). The PIP outlines specific, measurable goals that the employee must achieve within 60 days. A review meeting is held at the end of the PIP period to assess progress. Employees who successfully complete the PIP will be removed from the plan. Employees who fail to meet PIP goals may face further disciplinary action including termination.
+
+5.5 Bonuses and Increments
+Annual salary increments are determined based on the year-end performance review score:
+- Score 4.5 to 5.0: 15% salary increment.
+- Score 4.0 to 4.4: 10% salary increment.
+- Score 3.0 to 3.9: 5% salary increment.
+- Score below 3.0: No increment.
+Performance bonuses are distributed in December. The bonus amount is calculated as a percentage of the employee's annual base salary based on their review score.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+6. DISCIPLINARY POLICY
+
+6.1 Purpose
+The disciplinary policy exists to ensure consistent and fair handling of workplace misconduct and performance issues. Disciplinary action is not intended to be punitive but rather to correct behavior and support employees in meeting the standards expected by TechMeka Solutions.
+
+6.2 Grounds for Disciplinary Action
+Disciplinary action may be taken for the following reasons, among others:
+- Repeated attendance violations.
+- Insubordination or disrespect toward colleagues or managers.
+- Violation of the IT and data security policy.
+- Harassment or discrimination.
+- Falsification of records or timesheets.
+- Misuse of company resources.
+- Poor performance not addressed through coaching.
+
+6.3 Disciplinary Steps
+First Offense: Verbal warning issued by the manager, documented in the employee file with HR.
+Second Offense: Written warning issued by HR, signed by the employee, manager, and HR representative.
+Third Offense: Final written warning or suspension without pay for up to 5 working days, at HR discretion.
+Fourth Offense: Termination of employment with notice as per the employee's contract.
+
+6.4 Gross Misconduct
+Certain offenses are considered gross misconduct and may result in immediate termination without following the standard disciplinary steps. Gross misconduct includes:
+- Theft or fraud.
+- Physical violence in the workplace.
+- Serious breach of data security.
+- Sexual harassment.
+- Being under the influence of alcohol or illegal substances at work.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+7. GRIEVANCE POLICY
+
+7.1 Purpose
+TechMeka Solutions is committed to resolving employee grievances promptly, fairly, and confidentially. Employees are encouraged to raise concerns without fear of retaliation.
+
+7.2 Grievance Process
+Step 1: The employee attempts to resolve the issue informally with their direct manager.
+Step 2: If unresolved, the employee submits a formal grievance form on the HR portal.
+Step 3: HR acknowledges the grievance within 3 working days and assigns a grievance officer.
+Step 4: A grievance hearing is held within 10 working days of acknowledgment.
+Step 5: HR issues a written decision within 5 working days of the hearing.
+Step 6: If the employee is unsatisfied with the decision, they may appeal to the CHRO within 5 working days.
+
+7.3 Confidentiality
+All grievance matters are handled with strict confidentiality. Information is shared only with those directly involved in resolving the grievance.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+8. EQUAL OPPORTUNITY POLICY
+
+TechMeka Solutions is an equal opportunity employer. We do not discriminate on the basis of race, color, religion, gender, gender identity, sexual orientation, national origin, age, disability, or any other characteristic protected by law. All employment decisions including hiring, promotion, compensation, and termination are made solely on the basis of merit, qualifications, and business needs.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+9. ANTI-HARASSMENT POLICY
+
+TechMeka Solutions maintains a zero-tolerance policy toward harassment of any kind. Harassment includes unwanted physical contact, verbal abuse, sexual comments, intimidation, bullying, and any behavior that creates a hostile work environment. Employees who experience or witness harassment must report it immediately to HR. All reports are investigated promptly and confidentially. Employees found guilty of harassment will face disciplinary action up to and including termination.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+10. CODE OF CONDUCT
+
+All TechMeka Solutions employees are expected to:
+- Act with integrity and honesty in all professional interactions.
+- Treat all colleagues, clients, and partners with respect and professionalism.
+- Protect confidential company and client information.
+- Avoid conflicts of interest and disclose any potential conflicts to HR.
+- Represent the company positively in public and on social media.
+- Comply with all applicable laws, regulations, and company policies.
+- Report any unethical behavior or policy violations to HR or management.
+
+Violation of the code of conduct may result in disciplinary action as outlined in Section 6.

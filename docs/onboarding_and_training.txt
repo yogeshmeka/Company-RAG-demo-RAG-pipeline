@@ -1,0 +1,233 @@
+EMPLOYEE ONBOARDING AND TRAINING GUIDE
+Company: TechMeka Solutions
+Department: Human Resources and Learning & Development
+Last Updated: January 2026
+Version: 3.0
+Approved By: Sarah Mitchell, Chief Human Resources Officer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TABLE OF CONTENTS
+1. Introduction
+2. Pre-Joining Process
+3. First Day Schedule
+4. First Week Schedule
+5. First Month Milestones
+6. Probation Period
+7. Mentorship Program
+8. Mandatory Training
+9. Role-Specific Training
+10. Ongoing Learning and Development
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. INTRODUCTION
+
+A strong onboarding experience is critical to setting new employees up for long-term success at TechMeka Solutions. Our onboarding program is designed to help new hires understand our culture, tools, processes, and expectations from day one. Research shows that employees who go through a structured onboarding process are 58% more likely to remain with the company after three years.
+
+The TechMeka onboarding program spans the first 90 days of employment and is divided into three phases: orientation (days 1-7), integration (days 8-30), and independence (days 31-90). Each phase has specific goals, milestones, and check-ins to ensure the new employee is progressing well and getting the support they need.
+
+The HR department, the employee's direct manager, and an assigned mentor are all responsible for the success of the onboarding experience. New employees are encouraged to ask questions, raise concerns, and actively participate in all onboarding activities.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2. PRE-JOINING PROCESS
+
+2.1 Offer Acceptance
+Upon accepting the job offer, new employees will receive a welcome email from HR within 2 business days. The welcome email includes:
+- A welcome letter from the CEO.
+- A link to the employee self-service portal to complete pre-joining paperwork.
+- A list of documents to bring on the first day.
+- Information about the first day schedule and dress code.
+- Contact details of the HR onboarding coordinator.
+
+2.2 Pre-Joining Paperwork
+New employees must complete the following paperwork online before their first day:
+- Personal information and emergency contact form.
+- Bank account details for salary payment.
+- Tax withholding form (W-4).
+- Benefits enrollment form.
+- Background check consent form.
+- Signed copy of the offer letter and employment contract.
+- Confidentiality and non-disclosure agreement.
+- Acceptable use policy agreement.
+
+2.3 Background Check
+All new employees are required to undergo a background check before their start date. The background check includes verification of employment history, educational qualifications, criminal record, and identity. Results are reviewed by HR and are treated with strict confidentiality. Employment offers may be withdrawn if the background check reveals information that was not disclosed during the hiring process.
+
+2.4 Pre-Joining Communication
+HR will send a pre-joining checklist to the new employee one week before their start date. The checklist includes a reminder of items to bring, parking and building access instructions, IT setup requirements for remote employees, and the name and contact details of their assigned buddy for the first week.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3. FIRST DAY SCHEDULE
+
+New employees must report to the reception desk of their assigned office at 9:00 AM on their first day. They will be met by their HR onboarding coordinator and their assigned first-week buddy.
+
+9:00 AM - 9:30 AM: Welcome and building tour. The HR coordinator will give the new employee a tour of the office including restrooms, kitchen, meeting rooms, quiet rooms, and emergency exits.
+
+9:30 AM - 11:00 AM: HR Orientation. The HR team will walk through the company history, mission, values, organizational structure, and key policies. Employees will receive their employee handbook and company ID badge.
+
+11:00 AM - 12:00 PM: IT Setup. The IT team will hand over the company laptop, set up email and system access, install required software, configure MFA, and provide an overview of company tools.
+
+12:00 PM - 1:00 PM: Welcome lunch. The new employee's team organizes a welcome lunch to help the new hire get to know their colleagues in an informal setting.
+
+1:00 PM - 2:00 PM: Benefits enrollment walkthrough. HR will walk through all available benefits and assist the new employee in completing their benefits enrollment.
+
+2:00 PM - 3:30 PM: Mandatory compliance training Part 1. New employees complete the Data Security and Privacy Training and the Anti-Harassment and Inclusion Training online modules.
+
+3:30 PM - 4:30 PM: Manager one-on-one. The new employee meets with their direct manager to discuss role expectations, team structure, current projects, and goals for the first 30, 60, and 90 days.
+
+4:30 PM - 5:00 PM: Office wrap-up and Q&A with HR coordinator.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4. FIRST WEEK SCHEDULE
+
+Day 2 - Tools and Processes:
+Morning: Introduction to company tools including Jira, Confluence, Slack, GitHub, and the HR portal. IT will provide hands-on training for each tool.
+Afternoon: Department introduction meeting. The new employee meets all members of their immediate team and learns about ongoing projects and team processes.
+
+Day 3 - Culture and Mentor Introduction:
+Morning: Company culture and values workshop run by the HR team. Topics include communication norms, feedback culture, inclusion and diversity initiatives, and TechMeka's engineering principles.
+Afternoon: Introduction to assigned mentor. The mentor and mentee will have their first check-in to establish expectations and schedule weekly meetings.
+
+Day 4 - Role Deep Dive:
+Full day shadowing a senior team member. The new employee observes how work is done, participates in team meetings, and begins to understand the codebase or workflow relevant to their role.
+
+Day 5 - First Task and Goal Setting:
+Morning: First task assignment from the manager. The task is designed to be a small, manageable contribution that helps the new employee get hands-on experience.
+Afternoon: 30-60-90 day goal setting session with the manager. Goals are documented in the HR portal and will be reviewed at the end of each month during the probation period.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+5. FIRST MONTH MILESTONES
+
+By the end of the first month, new employees are expected to:
+- Complete all mandatory compliance training modules.
+- Have a working understanding of all primary tools used by the team.
+- Complete at least one assigned task or project contribution independently.
+- Establish a regular meeting cadence with their manager and mentor.
+- Complete their benefits enrollment and verify their first payslip.
+- Submit their first expense claim if applicable.
+- Have met with at least 5 colleagues outside their immediate team for a virtual or in-person coffee chat.
+
+The manager will conduct a 30-day check-in meeting to review progress against these milestones and address any concerns.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+6. PROBATION PERIOD
+
+6.1 Duration
+All new employees undergo a 3-month probation period starting from their first day of employment. The probation period is designed to assess the employee's fit with the role, team, and company culture, and to provide the employee with time to learn and settle in.
+
+6.2 Evaluation Criteria
+During the probation period, employees are evaluated on:
+- Attendance and punctuality.
+- Attitude and enthusiasm.
+- Speed of learning and adaptability.
+- Quality and timeliness of work delivered.
+- Communication and teamwork.
+- Alignment with company values.
+
+6.3 Probation Review
+A formal probation review meeting is held at the end of month 3 with the employee, their direct manager, and an HR representative. The manager prepares a probation review report in advance of the meeting. The report is shared with the employee at least 3 working days before the meeting.
+
+6.4 Probation Outcomes
+Pass: The employee is confirmed as a permanent full-time employee. A congratulations letter is issued by HR and the employee's full benefits and entitlements are confirmed.
+Extension: If the employee shows promise but has not fully met expectations, the probation period may be extended by 1 month. A clear set of goals must be agreed upon for the extension period.
+Termination: If the employee has not met expectations and there is no indication of improvement, the employment contract may be terminated during or at the end of the probation period with the notice period specified in the contract.
+
+6.5 Notice Period During Probation
+The notice period during the probation period is 2 weeks for both the employee and the company.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+7. MENTORSHIP PROGRAM
+
+7.1 Purpose
+The mentorship program pairs new employees with experienced TechMeka team members to accelerate their integration, share knowledge, and provide career guidance. The program runs for the first 3 months of employment.
+
+7.2 Mentor Selection
+Mentors are selected by HR and the department head based on experience, availability, and compatibility with the new employee's role. Mentors must have been with TechMeka Solutions for at least 1 year and must be at Level 4 or above.
+
+7.3 Mentor Responsibilities
+Mentors are expected to:
+- Meet with their mentee at least once per week for the first 3 months.
+- Help the mentee navigate company processes, tools, and culture.
+- Provide honest and constructive feedback on the mentee's work and progress.
+- Introduce the mentee to relevant colleagues and stakeholders.
+- Report any significant concerns about the mentee's progress to the manager or HR.
+
+7.4 Mentee Responsibilities
+Mentees are expected to:
+- Come prepared to each mentor meeting with specific questions or topics.
+- Actively seek feedback and apply it to their work.
+- Be open about challenges and areas where they need support.
+- Complete all tasks and follow-ups agreed upon during mentor meetings.
+
+7.5 Mentor Recognition
+Mentors receive a mentorship recognition bonus of $750 upon the successful completion of the mentee's probation period. Mentors are also recognized in the company's quarterly newsletter and are given priority consideration for leadership development programs.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+8. MANDATORY TRAINING
+
+All new employees must complete the following training modules within their first 2 weeks of employment. Access to these modules is provided through the company's learning management system (LMS).
+
+Module 1 - Data Security and Privacy Training (3 hours):
+Covers data classification, secure handling of confidential information, GDPR and CCPA compliance, phishing awareness, and the company's incident reporting process. Assessment: 20-question quiz with a minimum passing score of 80%.
+
+Module 2 - Anti-Harassment and Inclusion Training (2 hours):
+Covers the definition and examples of workplace harassment, TechMeka's zero-tolerance policy, reporting procedures, unconscious bias, and building an inclusive workplace. Assessment: Scenario-based quiz with a minimum passing score of 80%.
+
+Module 3 - Company Values and Code of Conduct (1.5 hours):
+Covers TechMeka's mission, vision, and values, the code of conduct, conflict of interest policy, and whistleblower policy. Assessment: Short written reflection submitted to HR.
+
+Module 4 - Health and Safety Training (1 hour):
+Covers office emergency procedures, fire evacuation routes, ergonomic workstation setup, and reporting workplace hazards. Assessment: Confirmation quiz.
+
+Module 5 - Role-Specific Compliance Training:
+Assigned by the department head based on the employee's role. Examples include SOC 2 compliance training for engineers, financial controls training for the finance team, and client data handling training for the customer success team.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+9. ROLE-SPECIFIC TRAINING
+
+9.1 Engineering Team
+New engineers undergo a 2-week technical onboarding program that includes:
+- Codebase walkthrough with a senior engineer.
+- Architecture overview and system design principles.
+- Development environment setup and coding standards.
+- CI/CD pipeline and deployment process training.
+- Code review process and git workflow.
+- Access to the internal engineering wiki and documentation.
+
+9.2 Product and Design Team
+New product managers and designers undergo a 1-week product onboarding that includes:
+- Product roadmap and strategy overview.
+- User research methods and customer personas.
+- Design system and brand guidelines.
+- Roadmap management tools training (Productboard, Figma).
+- Stakeholder management and cross-functional collaboration norms.
+
+9.3 Sales and Customer Success Team
+New sales and customer success employees undergo a 2-week client-facing onboarding that includes:
+- Product demo certification.
+- CRM system training (Salesforce).
+- Client communication standards and escalation procedures.
+- Pricing and contract overview.
+- Shadowing senior team members on calls and client meetings.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+10. ONGOING LEARNING AND DEVELOPMENT
+
+Learning does not stop after onboarding. TechMeka Solutions is committed to continuous learning and development for all employees throughout their tenure. Ongoing learning opportunities include:
+- Annual learning budget of $3,000 as detailed in the Employee Benefits Guide.
+- Monthly internal tech talks and knowledge sharing sessions.
+- Access to the company's LMS with over 5,000 courses.
+- Quarterly career development conversations between employees and managers.
+- Annual hackathon and innovation challenge.
+- Leadership development program for high-potential employees identified during performance reviews.
+- Sponsorship for external speaking opportunities at industry conferences.
