@@ -3,7 +3,7 @@ from langchain_community.document_loaders import TextLoader, DirectoryLoader
 from langchain_chroma import Chroma
 from dotenv import load_dotenv
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_ollama import OllamaEmbeddings  # ✅ changed
+from langchain_ollama import OllamaEmbeddings 
 
 load_dotenv()
 
@@ -39,10 +39,10 @@ def split_documents(documents, chunk_size=1000, chunk_overlap=200):
     """Split documents into smaller chunks with overlap"""
     print("Splitting documents into chunks...")
     
-    text_splitter = RecursiveCharacterTextSplitter(  # ✅ changed
+    text_splitter = RecursiveCharacterTextSplitter( 
         chunk_size=chunk_size, 
         chunk_overlap=chunk_overlap,
-        separators=["\n\n", "\n", " ", ""]  # ✅ added
+        separators=["\n\n", "\n", " ", ""]  
     )
     
     chunks = text_splitter.split_documents(documents)
